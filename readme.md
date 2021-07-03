@@ -1,4 +1,6 @@
-# Simple Internet Identity Provider
+# Simple React Internet Identity Provider
+
+![](demo.gif)
 
 Provides this context to your app:
 
